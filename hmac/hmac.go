@@ -1,4 +1,4 @@
-package vcodeAuthetication
+package hmac
 
 import (
 	"crypto/hmac"
